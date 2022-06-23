@@ -1,0 +1,2 @@
+exports.exampleModel = [];
+exports.settingModel = [];
